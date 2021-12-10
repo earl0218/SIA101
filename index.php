@@ -1,5 +1,5 @@
 <?php
 
-	echo "WElcome to GIT";
+	echo phpinfo();
 
 ?>
